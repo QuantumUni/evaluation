@@ -9,3 +9,4 @@
 4. Write a recursive Python function to calculate the factorial of a number
 5. In a file timethis.py, write a decorator function timethis(func) that wraps a function with an extra layer of logic that prints out the execution time of the function. Apply this decorator to the factorial function that you create in the previous exercise. Compare this time with the execution time of math.factorial().
 6. Write a function that prints out the number of lines in a text file.
+7. Write a function that count the number of unique words in a file.
