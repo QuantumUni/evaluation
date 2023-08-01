@@ -6,3 +6,4 @@
 1. Create a for loop that counts all even numbers to 10
 2. Create a for loop that sums the numbers from 100 to 200
 3. Repeat the exercises before using a while loop and compare execution times.
+4. Write a recursive Python function to calculate the factorial of a number
