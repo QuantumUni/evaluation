@@ -5,3 +5,4 @@
 #### This project contains following problems:
 1. Create a for loop that counts all even numbers to 10
 2. Create a for loop that sums the numbers from 100 to 200
+3. Repeat the exercises before using a while loop and compare execution times.
