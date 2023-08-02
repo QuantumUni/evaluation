@@ -10,3 +10,9 @@
 5. In a file timethis.py, write a decorator function timethis(func) that wraps a function with an extra layer of logic that prints out the execution time of the function. Apply this decorator to the factorial function that you create in the previous exercise. Compare this time with the execution time of math.factorial().
 6. Write a function that prints out the number of lines in a text file.
 7. Write a function that count the number of unique words in a file.
+8. Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.
+Suppose the following input is supplied to the program:
+without,hello,bag,world
+Then, the output should be:
+bag,hello,without,world
+
