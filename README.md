@@ -16,4 +16,5 @@ without,hello,bag,world
 Then, the output should be:
 bag,hello,without,world
 9. Solve the system of equations x0 + 2 * x1 = 1 and 3 * x0 + 5 * x1 = 2 using scipy.
-10. 
+10. Write a Python class Rectangle, and define two methods that return the rectangle area and perimeter, as attributes of the class.
+11.  
