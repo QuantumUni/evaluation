@@ -15,4 +15,5 @@ Suppose the following input is supplied to the program:
 without,hello,bag,world
 Then, the output should be:
 bag,hello,without,world
-
+9. Solve the system of equations x0 + 2 * x1 = 1 and 3 * x0 + 5 * x1 = 2 using scipy.
+10. 
